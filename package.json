@@ -1,0 +1,19 @@
+{
+  "name": "startem_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemmc/startem_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemmc/startem_bot/issues"
+  },
+  "homepage": "https://github.com/artemmc/startem_bot#readme"
+}

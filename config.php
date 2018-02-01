@@ -1,0 +1,2 @@
+<?php
+$token = "515367676:AAFvwNSN94ma1zGBIY7L34lUKUr4I7qmyKU";
