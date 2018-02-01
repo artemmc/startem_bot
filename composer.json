@@ -1,0 +1,16 @@
+{
+  "name": "startem/startem_bot",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "php": ">=5.5",
+    "longman/telegram-bot": "0.52.0"
+  },
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ]
+}
